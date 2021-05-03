@@ -1,0 +1,2 @@
+# Swiper-pagination
+ swiper.js
